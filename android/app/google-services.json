@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113690669447",
+    "project_id": "flutterformularioprueba",
+    "storage_bucket": "flutterformularioprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113690669447:android:9bba78bd0165dc3dfee322",
+        "android_client_info": {
+          "package_name": "com.example.formularioprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113690669447-4oudr133qv68t16lu31pk54f1esjeqbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxz29HHaBVsJxcTkMx18kRJwSgdOPRUCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113690669447-4oudr133qv68t16lu31pk54f1esjeqbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
